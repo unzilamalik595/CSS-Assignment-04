@@ -1,0 +1,317 @@
+@media (max-width:1286px){
+    header .header{
+
+    padding: 0px;
+    gap: 400px;
+}
+.header a{
+    padding: 5px;
+}
+}
+@media(max-width:1045px){
+
+    header .header{
+
+    gap: 200px;
+}
+}
+@media(max-width:850px){
+
+    header .header{
+
+    gap: 100px;
+}
+}
+@media(max-width:740px){
+
+     .header a{
+
+   display: none;
+}
+ header .header{
+
+    padding: 0px;
+gap: 200px;
+}
+header .header .bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.studio .contact .form input{
+    width: 505px;
+    display: block;
+    
+}
+.studio .contact .form  button{
+
+    width: 505px;
+}
+}
+@media(max-width:670px){
+
+     header .header{
+
+    gap: 150px;
+
+}
+
+}
+@media(max-width:580px){
+
+     header .header{
+
+    gap: 100px;
+
+}
+.studio .gallery .line{
+
+    width: 500px;
+}
+.studio .about h1{
+    font-size: 3em;
+   
+}
+.studio .gallery .numbers{
+    gap: 90px;
+}
+}
+@media(max-width:520px){
+
+.studio .gallery .line{
+
+    width: 450px;
+}
+.studio .contact .form input{
+    width: 400px;
+    display: block;
+    
+}
+.studio .contact .form textarea{
+    width: 400px;
+    display: block;
+    
+}
+.studio .contact .form  button{
+
+    width: 400px;
+}
+.studio .contact  p{
+    font-size: 16px;
+}
+.studio .contact  h1{
+    font-size: 50px;
+}
+}
+@media(max-width:480px){
+
+     header .header{
+    gap: 50px;
+}
+.about .cards {
+ padding: 20px;
+}
+.studio .gallery .line{
+
+    width: 400px;
+}
+.studio .services h1{
+
+    font-size: 3em;
+
+}
+.studio .home h1{
+font-size: 1.5em;
+}
+.studio .contact p{
+/* font-size: 1.2em;
+word-spacing: 12px; */
+padding: 10px;
+}
+}
+@media(max-width:460px){
+
+.studio .contact .form input{
+    width: 400px;
+    display: block;
+    
+}
+.studio .contact .form  button{
+
+    width: 400px;
+}
+}
+@media(max-width:440px){
+
+     header .header p,button{
+        padding-left: 0p;
+}
+.studio .gallery .line{
+
+    width: 350px;
+}
+
+.about .cards {
+ padding: 30px;
+margin: auto;
+}
+.about .cards img{
+
+   max-width: 300px;
+   padding: 20px;
+} 
+.studio .about .p{
+    font-size: 1em;
+   
+}
+.about .cards {
+        max-width: 300px;
+
+}
+.studio .about h1{
+    font-size: 40px;
+   
+}
+.studio .contact .form input{
+    width: 300px;
+    display: block;
+    
+}
+.studio .contact .form  button{
+
+    width: 300px;
+}
+.studio .contact .form textarea{
+    width: 300px;
+    display: block;
+    
+}
+.studio .contact  p{
+    font-size: 12px;
+}
+.studio .contact  h1{
+    font-size: 40px;
+}
+}
+@media(max-width:400px){
+
+.studio .about h1{
+    font-size:40px ;
+   padding: 30px;
+}
+.studio .services h1{
+
+    font-size:40px ;
+padding:10px;
+}
+
+.studio .gallery h1{
+
+    font-size: 3.5em;
+}
+
+    
+
+}
+
+@media(max-width:380px){
+
+     header .header{
+
+    gap: 20px;
+}
+.studio .gallery h1{
+
+    font-size: 3em;
+}
+.studio .gallery .line{
+
+    width: 300px;
+}
+.studio .home h1{
+font-size: 1.1em;
+}   
+.studio .contact .form input{
+    width: 260px;
+    display: block;
+    
+}
+.studio .contact .form  button{
+
+    width: 260px;
+}
+.studio .contact .form textarea{
+    width: 260px;
+    display: block;
+    
+}
+.studio .contact  p{
+    font-size: 10px;
+}
+.studio .contact  h1{
+    font-size: 35px;
+
+}
+@media(max-width:312px){
+
+     header .header{
+
+    gap: 10px;
+}
+.studio .about .p{
+    font-size: small;
+   
+}
+
+.studio .gallery h1{
+    font-size: 2.5em;
+}
+.studio .services h1{
+    font-size: 2em;
+}
+}
+@media(max-width:320px){
+.about .cards img{
+
+   max-width: 230px;
+   padding: 20px;
+} 
+ .about .card2 img{
+    max-height: 150px;
+    margin: 12px;
+       max-width: 220px;
+ }
+ .studio .gallery .line{
+
+    width: 250px;
+}
+.studio .services .icons{
+margin: auto;
+}
+}
+@media(max-width:290px){
+
+     header .header{
+
+    gap: 0px;
+}
+}
+@media(max-width:250px){
+.about .cards img{
+
+   max-width: 200px;
+   padding: 20px;
+} 
+
+.about .card2 img{
+       max-width: 160px;
+padding-top: 80px;
+       max-height: 180px;
+
+ }
+.about .card1 img{
+ max-width: 180px;
+ }
+}
+}
+
